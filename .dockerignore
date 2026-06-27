@@ -1,0 +1,7 @@
+.git
+.gradle
+build
+out
+.idea
+src/main/resour
+ces/serviceAccountKey.json
